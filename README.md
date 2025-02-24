@@ -14,7 +14,8 @@ This is chapter 2 of "The Rust Programming Language"
 - Hot to read docs from crates. 
     `cargo doc --open`
 - How to use the match expression.
-- How to use Shadowing feature.
-
+- How to use Shadowing feature. (Reusing a variable without creating a new one)
+- How to use loops 
+- Handling errors with a catch all (_)
 
 
