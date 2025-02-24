@@ -11,5 +11,8 @@ This is chapter 2 of "The Rust Programming Language"
 - A teaser into what a reference in Rust is like. & <- reference
 - A teaser into error handling. 
 - Print values with placerholders
+- Hot to read docs from crates. 
+    `cargo doc --open`
+
 
 
