@@ -13,6 +13,8 @@ This is chapter 2 of "The Rust Programming Language"
 - Print values with placerholders
 - Hot to read docs from crates. 
     `cargo doc --open`
+- How to use the match expression.
+- How to use Shadowing feature.
 
 
 
